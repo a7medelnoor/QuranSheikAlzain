@@ -1,8 +1,10 @@
-package com.a7medelnoor.quransheikalzain;
+package com.a7medelnoor.quransheikalzain.ui.main.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.a7medelnoor.quransheikalzain.R;
 
 public class MainActivity extends AppCompatActivity {
 
